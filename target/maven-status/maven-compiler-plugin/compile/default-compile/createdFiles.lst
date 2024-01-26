@@ -1,0 +1,9 @@
+com\cqu\assessment3\App.class
+com\cqu\assessment3\Justified.class
+com\cqu\assessment3\RightAligned.class
+com\cqu\assessment3\Document.class
+com\cqu\assessment3\LeftAlign.class
+com\cqu\assessment3\AlignmentStrategy.class
+com\cqu\assessment3\Paragraph.class
+com\cqu\assessment3\Centered.class
+com\cqu\assessment3\Controller.class
